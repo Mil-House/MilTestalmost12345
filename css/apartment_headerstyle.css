@@ -109,6 +109,9 @@ header {
     font-size: 1.1em;
     letter-spacing: 0.5px;
     padding-left: 32px; /*46px*/
+
+    position: relative; /*Added 30.01.2022*/
+    top: -1px;
 }
 
 .nav-link-mil .backbtn .fa-angle-left {
